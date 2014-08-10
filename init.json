@@ -1,0 +1,9 @@
+{
+	"height": 30,
+	"width": 200,
+	"view": "solid",
+	"brokenstyle": "broken_regular",
+	"lineWidth": "regular",
+	"arrow": "none",
+	"color": "black"
+}
